@@ -13,3 +13,7 @@ Added GUI removing need for CLI
 Expanded functionality
 
 
+
+Ver. 1.0
+
+
